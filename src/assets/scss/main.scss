@@ -1,10 +1,5 @@
 /*
-    =========================
-	Template Name 	 : Swigo
-	Author			 : DexignZone
-	Version			 : 1.1
-	Author Portfolio : https://themeforest.net/user/dexignzone
-	=========================
+
 	
 	[Table of Contents] 
 
@@ -56,19 +51,18 @@
 */
 
 /*=== Abstract ===*/
-@import "./abstract/abstract";
+@import './abstract/abstract';
 
 /*=== Bootstrap ===*/
-@import "./../vendor/bootstrap/scss/bootstrap.scss";
 
 /*=== Base  ===*/
-@import "./base/base";
+@import './base/base';
 
 /*=== Layout ===*/
-@import "./layout/layout";
+@import './layout/layout';
 
 /*=== Components ===*/
-@import "./components/components";
+@import './components/components';
 
 /*=== Pages ===*/
-@import "./pages/pages";
+@import './pages/pages';
